@@ -42,6 +42,10 @@ body{
     border-radius: 50%;
   }
 
+  .typewrite {
+    text-decoration: underline;
+  }
+
   @media screen and (max-width: 992px) {
     #header-img-con {
       margin-top: 2%;
