@@ -42,8 +42,29 @@ body{
     border-radius: 50%;
   }
 
+  .services {
+    margin-top: 2%;
+    text-align: center;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 2%;
+  }
+
   .typewrite {
     text-decoration: underline;
+    /* text-decoration-color: rgb(41, 92, 188); */
+  }
+
+  .service-img {
+    height: 120px;
+    width: 120px;
+    margin-bottom: 4%;
+  }
+
+  .section {
+    border-left: 1px black  solid;
+    border-right: 1px black  solid;
   }
 
   @media screen and (max-width: 992px) {
