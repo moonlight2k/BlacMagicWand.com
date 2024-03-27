@@ -79,6 +79,18 @@ body{
     margin-right: 4px;
   }
 
+  .about {
+    background-color: #1D2549;
+    border-radius: 1%;
+    padding: 10px;
+  }
+
+  .about-rim {
+    background-color: white;
+    border-radius: 1%;
+    padding: 2px;
+  }
+
   @media screen and (max-width: 992px) {
     #header-img-con {
       margin-top: 2%;
